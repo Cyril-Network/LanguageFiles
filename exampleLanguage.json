@@ -2,7 +2,7 @@
   "meta":{
     "name": "ExampleLanguage",
     "shortName": "ex_la",
-    "version": "1.0.0"
+    "version": 1
   },
   "translations": {
 
